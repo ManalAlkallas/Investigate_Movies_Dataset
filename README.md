@@ -38,5 +38,7 @@ If these values are availabe in the dataframe, a lot of analysis would be done. 
 
 > Relationship between release year and vote average: During the 1960s technology was not as advanced as it is right now. At that time, the only way to rate a movies was using paper. The increase of rating average started in the 1980s which is also reasonable, due to the beginnning of the advanced technology making it easier to rate movies.
 
-> Finally, when I analysed the genre, I noticed that only of the highet earning genres is in the top 3 most frequently produced genres: Drama, Comedy and Thriller. :
+> Finally, when I analysed the genre, I noticed that only of the highet earning genres is in the top 3 most frequently produced genres: Drama, Comedy and Thriller. 
+
+![alt text](Chart.png)
 
